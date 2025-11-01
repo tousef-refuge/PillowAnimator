@@ -1,6 +1,7 @@
 ------------------BORING INTRODUCTION------------------
 
 PillowAnimator is a project I made because I was bored
+
 Juggling time between programming and drawing is SOOOOO tiring...if
 only there was a handsome genius out there who combined both
 
